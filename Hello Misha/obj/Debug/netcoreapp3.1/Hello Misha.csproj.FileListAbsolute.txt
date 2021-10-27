@@ -1,0 +1,13 @@
+D:\Programming\Projects2\Hello Misha\bin\Debug\netcoreapp3.1\Hello Misha.exe
+D:\Programming\Projects2\Hello Misha\bin\Debug\netcoreapp3.1\Hello Misha.deps.json
+D:\Programming\Projects2\Hello Misha\bin\Debug\netcoreapp3.1\Hello Misha.runtimeconfig.json
+D:\Programming\Projects2\Hello Misha\bin\Debug\netcoreapp3.1\Hello Misha.runtimeconfig.dev.json
+D:\Programming\Projects2\Hello Misha\bin\Debug\netcoreapp3.1\Hello Misha.dll
+D:\Programming\Projects2\Hello Misha\bin\Debug\netcoreapp3.1\Hello Misha.pdb
+D:\Programming\Projects2\Hello Misha\obj\Debug\netcoreapp3.1\Hello Misha.csprojAssemblyReference.cache
+D:\Programming\Projects2\Hello Misha\obj\Debug\netcoreapp3.1\Hello Misha.AssemblyInfoInputs.cache
+D:\Programming\Projects2\Hello Misha\obj\Debug\netcoreapp3.1\Hello Misha.AssemblyInfo.cs
+D:\Programming\Projects2\Hello Misha\obj\Debug\netcoreapp3.1\Hello Misha.csproj.CoreCompileInputs.cache
+D:\Programming\Projects2\Hello Misha\obj\Debug\netcoreapp3.1\Hello Misha.dll
+D:\Programming\Projects2\Hello Misha\obj\Debug\netcoreapp3.1\Hello Misha.pdb
+D:\Programming\Projects2\Hello Misha\obj\Debug\netcoreapp3.1\Hello Misha.genruntimeconfig.cache
