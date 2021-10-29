@@ -8,10 +8,11 @@ namespace Hello_Misha
         {
             string phrase = "Hello Misha";
             Console.WriteLine(phrase);
-            char[] letters = phrase.ToCharArray();
-            for (int i = 6; i < letters.Length; i++)
+            string[] words = phrase.Split(" ");
+            char[] lastWord = words[words.Length - 1].ToCharArray();
+            for (int i = 0; i < lastWord.Length; i++)
             {
-                Console.WriteLine(char.ToUpper(letters[i]));
+                Console.WriteLine(char.ToUpper(lastWord[i]));
             }
         }
     }
