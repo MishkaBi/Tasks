@@ -1,0 +1,14 @@
+D:\Programming\Projects2\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.exe
+D:\Programming\Projects2\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.deps.json
+D:\Programming\Projects2\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.runtimeconfig.json
+D:\Programming\Projects2\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.runtimeconfig.dev.json
+D:\Programming\Projects2\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.dll
+D:\Programming\Projects2\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.pdb
+D:\Programming\Projects2\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.AssemblyInfoInputs.cache
+D:\Programming\Projects2\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.AssemblyInfo.cs
+D:\Programming\Projects2\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.CoreCompileInputs.cache
+D:\Programming\Projects2\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.dll
+D:\Programming\Projects2\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.pdb
+D:\Programming\Projects2\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.genruntimeconfig.cache
+D:\Programming\Projects2\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.AssemblyReference.cache
+D:\Programming\Projects2\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.GeneratedMSBuildEditorConfig.editorconfig
