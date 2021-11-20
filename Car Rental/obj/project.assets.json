@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Projects2\\Car Rental\\Car Rental.csproj",
+      "projectUniqueName": "D:\\Programming\\GITHUB\\Tasks\\Car Rental\\Car Rental.csproj",
       "projectName": "Car Rental",
-      "projectPath": "D:\\Programming\\Projects2\\Car Rental\\Car Rental.csproj",
+      "projectPath": "D:\\Programming\\GITHUB\\Tasks\\Car Rental\\Car Rental.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Projects2\\Car Rental\\obj\\",
+      "outputPath": "D:\\Programming\\GITHUB\\Tasks\\Car Rental\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

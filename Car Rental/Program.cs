@@ -14,13 +14,13 @@ namespace Car_Rental
             Random random = new Random();
             int customerCount = random.Next(1, 10);
 
-            var usersWithCars = new string[customerCount];
+            string[] usersWithCars = new string[customerCount];
 
             for (int i = 0; i < usersWithCars.Length; i++)
             {
                 usersWithCars[i] = nameOfPeople[i] + " - " + carMark[i];
             }
-            
+
             int j = 0;
             foreach (var item in usersWithCars)
             {
@@ -28,7 +28,18 @@ namespace Car_Rental
                 j++;
             }
 
-            Console.WriteLine($"User without cars: {nameOfPeople.Length - customerCount}");
+            Console.WriteLine("\nUser without cars: ");
+            for (int i = customerCount; i < nameOfPeople.Length; i++)
+            {
+                Console.Write(nameOfPeople[i] + ", ");
+            }
+            
+            Console.WriteLine("\nRemaining cars: ");
+            for (int i = customerCount; i < carMark.Length; i++)
+            {
+                Console.Write(carMark[i] + ", ");
+            }
+            Console.WriteLine();
         }
     }
 }
